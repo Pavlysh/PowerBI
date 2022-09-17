@@ -1,5 +1,5 @@
 # PowerBI 
-Power BI project analysing GDP and trade balance of top 10 developped countries. Data is deleivered from the https://www.macrotrends.net public datasource
+Power BI project analysing GDP and trade balance of top 10 developped countries. Data is delivered from the https://www.macrotrends.net public datasource
 
 GDP at purchaser's prices- is the sum of gross value added by all resident producers in the economy plus any product taxes 
 and minus any subsidies not included in the value of the products. 
